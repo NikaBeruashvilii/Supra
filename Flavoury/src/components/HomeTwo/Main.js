@@ -26,8 +26,8 @@ function Main() {
             <div className='index_wraper'>
                 <Header />
                 <Banner />
-                <Menulist />
-                <VideoTwo />
+                {/* <Menulist /> */}
+                {/* <VideoTwo /> */}
                 <MenuSection />
                 <DiscountSection />
                 <WhoWe />

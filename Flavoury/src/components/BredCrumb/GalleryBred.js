@@ -7,7 +7,7 @@ function GalleryBred() {
                 <div className="container">
                     <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
                         <span className="sub_text">Our glimpsis</span>
-                        <h2>restaurant gallery</h2>
+                        <h2>Supra gallery</h2>
                     </div>
                 </div>
             </section>

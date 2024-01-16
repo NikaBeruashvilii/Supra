@@ -7,7 +7,7 @@ function BlogListBred() {
         <div className="container">
           <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
             <span className="sub_text">Latest Blog Post</span>
-            <h2>delicious tasty dishes in paris</h2>
+            <h2>Supra Blog List</h2>
           </div>
         </div>
       </section>
