@@ -19,7 +19,7 @@ function Main() {
     <div className='page_wrapper'>
       <Header />
       <AbtBanner />
-      {/* <TextFlow /> */}
+      <TextFlow />
       <Chef />
       <Videoabt />
       <Journey />

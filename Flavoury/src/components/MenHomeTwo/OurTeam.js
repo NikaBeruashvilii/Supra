@@ -4,6 +4,7 @@ import Team01 from '../../assets/images/knife_fire.png'
 import Team02 from '../../assets/images/chef_01.png'
 import Team03 from '../../assets/images/chef_02.png'
 import Team04 from '../../assets/images/chef_03.png'
+import partners from '../../assets/images/partners.jpeg'
 
 const Team = {
     responsive: [
@@ -39,7 +40,7 @@ function OurTeam() {
                             <div className="item">
                                 <div className="team_card">
                                     <div className="img">
-                                        <img src={Team02} alt="img" />
+                                        <img src={partners} alt="img" />
                                     </div>
                                     <div className="info">
                                         <h3>Jammie Waters</h3>
@@ -50,7 +51,7 @@ function OurTeam() {
                             <div className="item">
                                 <div className="team_card">
                                     <div className="img">
-                                        <img src={Team03} alt="img" />
+                                        <img src={partners} alt="img" />
                                     </div>
                                     <div className="info">
                                         <h3>Amelia Ava</h3>
@@ -61,7 +62,7 @@ function OurTeam() {
                             <div className="item">
                                 <div className="team_card">
                                     <div className="img">
-                                        <img src={Team04} alt="img" />
+                                        <img src={partners} alt="img" />
                                     </div>
                                     <div className="info">
                                         <h3>John Due</h3>
@@ -72,7 +73,7 @@ function OurTeam() {
                             <div className="item">
                                 <div className="team_card">
                                     <div className="img">
-                                        <img src={Team02} alt="img" />
+                                        <img src={partners} alt="img" />
                                     </div>
                                     <div className="info">
                                         <h3>Jammie Waters</h3>
@@ -83,7 +84,7 @@ function OurTeam() {
                             <div className="item">
                                 <div className="team_card">
                                     <div className="img">
-                                        <img src={Team03} alt="img" />
+                                        <img src={partners} alt="img" />
                                     </div>
                                     <div className="info">
                                         <h3>Amelia Ava</h3>

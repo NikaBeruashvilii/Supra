@@ -5,6 +5,7 @@ import Img2 from '../../assets/images/chef_02.png'
 import Img3 from '../../assets/images/chef_03.png'
 import Img4 from '../../assets/images/chef_01.png'
 import Img5 from '../../assets/images/chef_02.png'
+import partners from '../../assets/images/partners.jpeg'
 
 const Teamslider = {
   responsive: [
@@ -40,7 +41,7 @@ function Ourchefteam() {
               <div className="item">
                 <div className="team_card">
                   <div className="img">
-                    <img src={Img1} alt="img" />
+                    <img src={partners} alt="img" />
                   </div>
                   <div className="info">
                     <h3>Jammie Waters</h3>
@@ -51,7 +52,7 @@ function Ourchefteam() {
               <div className="item">
                 <div className="team_card">
                   <div className="img">
-                    <img src={Img2} alt="img" />
+                    <img src={partners} alt="img" />
                   </div>
                   <div className="info">
                     <h3>Amelia Ava</h3>
@@ -62,7 +63,7 @@ function Ourchefteam() {
               <div className="item">
                 <div className="team_card">
                   <div className="img">
-                    <img src={Img3} alt="img" />
+                    <img src={partners} alt="img" />
                   </div>
                   <div className="info">
                     <h3>John Due</h3>
@@ -73,7 +74,7 @@ function Ourchefteam() {
               <div className="item">
                 <div className="team_card">
                   <div className="img">
-                    <img src={Img4} alt="img" />
+                    <img src={partners} alt="img" />
                   </div>
                   <div className="info">
                     <h3>Jammie Waters</h3>
@@ -84,7 +85,7 @@ function Ourchefteam() {
               <div className="item">
                 <div className="team_card">
                   <div className="img">
-                    <img src={Img5} alt="img" />
+                    <img src={partners} alt="img" />
                   </div>
                   <div className="info">
                     <h3>Amelia Ava</h3>

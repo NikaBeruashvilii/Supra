@@ -5,15 +5,16 @@ import Ctn02 from '../../assets/images/contactShape.png'
 import Ctn03 from '../../assets/images/contact_icon.png'
 import Ctn04 from '../../assets/images/contact.png'
 
+
 function ContactUS() {
   return (
     <>
       <section className="contact_us_section">
         <div className="right_shape position-absolute">
-          <img src={Ctn01} alt="img" />
+          {/* <img src={Ctn01} alt="img" /> */}
         </div>
         <div className="left_shape position-absolute">
-          <img src={Ctn02} alt="img" />
+          {/* <img src={Ctn02} alt="img" /> */}
         </div>
         <div className="container">
           <div className="section_title text-center">

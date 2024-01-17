@@ -12,6 +12,10 @@ import gallery5 from '../../assets/images/gallery_05.png'
 import gallery6 from '../../assets/images/gallery_06.png'
 import gallery7 from '../../assets/images/gallery_07.png'
 import gallery8 from '../../assets/images/gallery_08.png'
+import discount from '../../assets/images/discount.jpeg'
+import discount2 from '../../assets/images/discount2.jpg'
+import discount3 from '../../assets/images/discount3.jpeg'
+
 
 const Weslider = {
     responsive: [
@@ -42,7 +46,7 @@ function WhoWe() {
                 <div className="container">
                     <div className="section_title text-center" data-aos="fade-up" data-aos-duration={1500} >
                         <div className="icon">
-                            <img src={Icon01} alt="img" />
+                            {/* <img src={Icon01} alt="img" /> */}
                         </div>
                         <span className="sub_text">Who we are</span>
                         <h2>
@@ -64,124 +68,124 @@ function WhoWe() {
                     <Slider className="Slider-Who" id="gallery_flow_right" data-aos="fade-in" data-aos-duration={1500} {...Weslider} slidesToShow={11.5} arrows={false} autoplay={true} autoplaySpeed={1000} easing='linear'>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery1} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery2} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery3} alt="img" />
+                                <img src={discount3} alt="img" />
+                            </div>
+                        </div>
+                       <div className="item">
+                            <div className="img">
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery4} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery1} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery2} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery3} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery4} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery1} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery2} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery3} alt="img" />
-                            </div>
-                        </div>
-                        <div className="item">
-                            <div className="img">
-                                <img src={gallery4} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                     </Slider>
                     <Slider className="Slider-Who" id="gallery_flow_left" data-aos="fade-in" data-aos-duration={1500} {...Weslider} rtl={true} slidesToShow={11.5} arrows={false} autoplay={true} autoplaySpeed={1000} easing='linear' >
                         <div className="item">
                             <div className="img">
-                                <img src={gallery5} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery6} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery7} alt="img" />
+                                <img src={discount3} alt="img" />
+                            </div>
+                        </div>
+                       <div className="item">
+                            <div className="img">
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery8} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery5} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery6} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery7} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery8} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery5} alt="img" />
+                                <img src={discount} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery6} alt="img" />
+                                <img src={discount2} alt="img" />
                             </div>
                         </div>
                         <div className="item">
                             <div className="img">
-                                <img src={gallery7} alt="img" />
-                            </div>
-                        </div>
-                        <div className="item">
-                            <div className="img">
-                                <img src={gallery8} alt="img" />
+                                <img src={discount3} alt="img" />
                             </div>
                         </div>
                     </Slider>

@@ -4,6 +4,7 @@ import Slider from "react-slick";
 import Test01 from "../../assets/images/testmonial_01.png";
 import Test02 from "../../assets/images/testmonial_02.png";
 import Test03 from "../../assets/images/testmonial_03.png";
+import reviews from "../../assets/images/reviews.jpeg";
 
 const Testslider = {
     responsive: [
@@ -39,7 +40,7 @@ function Testimonial() {
                             <div className="item">
                                 <div className="testimonial_inner">
                                     <div className="img">
-                                        <img src={Test01} alt="img" />
+                                        <img src={reviews} alt="img" />
                                     </div>
                                     <div className="text">
                                         <span className="quote">“</span>
@@ -75,7 +76,7 @@ function Testimonial() {
                             <div className="item">
                                 <div className="testimonial_inner">
                                     <div className="img">
-                                        <img src={Test02} alt="img" />
+                                        <img src={reviews} alt="img" />
                                     </div>
                                     <div className="text">
                                         <span className="quote">“</span>
@@ -112,7 +113,7 @@ function Testimonial() {
                             <div className="item">
                                 <div className="testimonial_inner">
                                     <div className="img">
-                                        <img src={Test03} alt="img" />
+                                        <img src={reviews} alt="img" />
                                     </div>
                                     <div className="text">
                                         <span className="quote">“</span>
@@ -147,11 +148,11 @@ function Testimonial() {
                             </div>
                         </Slider>
                     </div>
-                    <div className="text-center" data-aos="fade-in" data-aos-duration={1500} >
+                    {/* <div className="text-center" data-aos="fade-in" data-aos-duration={1500} >
                         <Link to="/review" className="btn btn_primary">
                             more testimonials
                         </Link>
-                    </div>
+                    </div> */}
                 </div>
             </section>
         </>

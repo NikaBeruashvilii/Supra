@@ -110,19 +110,19 @@ function Main() {
                   </span>
                   <div className="sub_menu">
                     <ul>
-                      <li>
+                      {/* <li>
                         <Link to="/bloglist">Blog List </Link>
                       </li>
                       <li>
                         <Link to="/blogdetail">Blog Details</Link>
-                      </li>
+                      </li> */}
                       <li>
-                        <Link to="/reservation1">reservation 1</Link>
+                        <Link to="/reservation1">reservation</Link>
                       </li>
                       {/* <li>
                         <Link to="/reservation2">reservation 2</Link>
                       </li> */}
-                      <li>
+                      {/* <li>
                         <Link to="/review">reviews</Link>
                       </li>
                       <li>
@@ -130,7 +130,7 @@ function Main() {
                       </li>
                       <li>
                         <Link to="/userprofile">User Profile</Link>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </li>

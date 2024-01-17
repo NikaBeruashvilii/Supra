@@ -3,6 +3,10 @@ import { Link } from 'react-router-dom'
 import DishImg from '../../assets/images/discount_dish.png'
 import DishImg01 from '../../assets/images/discount_dish2.png'
 import DishImg02 from '../../assets/images/discount_dish3.png'
+import discount from '../../assets/images/discount.jpeg'
+import discount2 from '../../assets/images/discount2.jpg'
+import discount3 from '../../assets/images/discount3.jpeg'
+
 
 
 function DiscountSection() {
@@ -37,7 +41,7 @@ function DiscountSection() {
                                     </div>
                                 </div>
                                 <div className="dish_img">
-                                    <img src={DishImg} alt="img" />
+                                    <img src={discount} alt="img" />
                                 </div>
                             </div>
                         </div>
@@ -63,7 +67,7 @@ function DiscountSection() {
                                     </div>
                                 </div>
                                 <div className="dish_img">
-                                    <img src={DishImg01} alt="img" />
+                                    <img src={discount2} alt="img" />
                                 </div>
                             </div>
                         </div>
@@ -89,7 +93,7 @@ function DiscountSection() {
                                     </div>
                                 </div>
                                 <div className="dish_img">
-                                    <img src={DishImg02} alt="img" />
+                                    <img src={discount3} alt="img" />
                                 </div>
                             </div>
                         </div>

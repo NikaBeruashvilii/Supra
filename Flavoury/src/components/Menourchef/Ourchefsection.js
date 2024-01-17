@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import Chef01 from '../../assets/images/master_chef.png'
 import Chef02 from '../../assets/images/chef_cap.png'
 import Chef03 from '../../assets/images/chef_text_white.png'
+import partners from '../../assets/images/partners.jpeg'
 
 function Ourchefsection() {
   return (
@@ -12,7 +13,7 @@ function Ourchefsection() {
           <div className="row my-2 my-sm-4">
             <div className="col-md-6" data-aos="fade-up" data-aos-duration={1500}>
               <div className="chef_img">
-                <img className="radius_img img-fluid" src={Chef01} alt="img" />
+                <img className="radius_img img-fluid" src={partners} alt="img" />
               </div>
               <h3 className="chef_name">
                 <span>Our Partner</span> Jammie Waters
@@ -21,9 +22,9 @@ function Ourchefsection() {
             <div className="col-md-6">
               <div className="abt_chef" data-aos="fade-up" data-aos-duration={1500}>
                 <div className="banner_badge">
-                  <img className="img-fluid" src={Chef02} alt="img" />
+                  {/* <img className="img-fluid" src={Chef02} alt="img" /> */}
                   <div className="round_anim">
-                    <img src={Chef03} alt="img" />
+                    {/* <img src={Chef03} alt="img" /> */}
                   </div>
                 </div>
                 <div className="section_title">
@@ -32,9 +33,7 @@ function Ourchefsection() {
                     a master chef with 25 <br /> years of experience
                   </h2> */}
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has the industrys standard my text ever since
-                    the when an unknown printer.
+                    We carefully choose only the highest quality and most recently sourced partners who expertly make and present your cuisine. They employ both new and classic recipes, and employ the most skilled staff to guarantee that your event will be a memorable and exceptional experience for your visitors.
                   </p>
                 </div>
                 <Link to="#" className="btn btn_text">

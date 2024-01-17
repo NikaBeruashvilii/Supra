@@ -9,7 +9,7 @@ function Journey() {
     <>
       <section className="row_am our_journey bg_white_textcher">
         <div className="side_shape position-absolute" data-aos="fade-in" data-aos-duration={1500} >
-          <img src={Dish01} alt="img" />
+          {/* <img src={Dish01} alt="img" /> */}
         </div>
         <div className="container">
           <div className="row_am">
@@ -40,9 +40,9 @@ function Journey() {
                   </div>
                   <h3>Fastest delivery</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has been the industrys standard my text ever
-                    sincestandard.
+                    Delivery speed refers to how fast you transport and drop off goods or provide services to users at their home or place of work. It’s a big part of the overall consumer experience and depends on structures, people, processes, and technology as part of your logistics and supply chain networks.
+
+
                   </p>
                 </div>
               </div>
@@ -53,9 +53,7 @@ function Journey() {
                   </div>
                   <h3>premium services</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typeset ting
-                    industry lorem Ipsum has been the industrys standard my text ever
-                    sincestandard.
+                    With our Premium Delivery Service, we bring your brand experience into your customers' homes. We treat your premium home and living products with special care and expertise - from delivery to assembly and positioning at the point of use.
                   </p>
                 </div>
               </div>

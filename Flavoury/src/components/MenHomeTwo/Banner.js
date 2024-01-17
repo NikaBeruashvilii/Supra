@@ -58,14 +58,8 @@ function Banner() {
                             <div className="slider_block" style={{ backgroundImage: `url(${BG1})` }} >
                                 <div className="ban_text ">
                                     <div className="inner_text">
-                                        <span className="sub_text">Welcome to the SUPRA</span>
-                                        <h1>Timeless &amp; Traditional taste</h1>
-                                         <p className="lead">
-                                             Timeless &amp; Traditional taste.{" "}
-                                        </p>
-                                        <Link href="/menulist1" className="btn btn_primary mt-20">
-                                            view our full menu
-                                        </Link>
+                                        <h1>SUPRA - Unforgettable Events, Exquisite Flavors!</h1>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -73,15 +67,9 @@ function Banner() {
                         <div className="item">
                             <div className="slider_block" style={{ backgroundImage: `url(${BG2})` }} >
                                 <div className="ban_text ">
-                                    <div className="inner_text">
-                                        <span className="sub_text">Welcome to the SUPRA</span>
-                                        <h1>Timeless &amp; Traditional taste</h1>
-                                        <p className="lead">
-                                             Timeless &amp; Traditional taste.{" "}
-                                        </p>
-                                        <Link href="/menulist2" className="btn btn_primary">
-                                            view our full menu
-                                        </Link>
+                                     <div className="inner_text">
+                                        <h1>SUPRA - Unforgettable Events, Exquisite Flavors!</h1>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -89,16 +77,9 @@ function Banner() {
                         <div className="item">
                             <div className="slider_block" style={{ backgroundImage: `url(${BG3})` }} >
                                 <div className="ban_text">
-                                    <div className="inner_text">
-                                        <span className="sub_text">Welcome to the SUPRA</span>
-                                        <h1>Timeless &amp; Traditional taste</h1>
-                                        <p className="lead">
-                                            Authentic Tastes &amp; Authentic Atmosphere, Change your life
-                                            with our Taste.{" "}
-                                        </p>
-                                        <Link href="/MenuList1" className="btn btn_primary">
-                                            view our full menu
-                                        </Link>
+                                     <div className="inner_text">
+                                        <h1>SUPRA - Unforgettable Events, Exquisite Flavors!</h1>
+                                        
                                     </div>
                                 </div>
                             </div>

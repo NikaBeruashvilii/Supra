@@ -29,73 +29,73 @@ function TextFlow() {
                 <Slider className="Slick-Menu" id="text_list_flow" {...Slidersetting} arrows={false} rtl={true} slidesToShow={10} autoplay={true} speed={5000} autoplaySpeed={0} easing={"linear"} style={{ "width": 5697 }} >
                     <div className="item">
                         <div className="text_block">
-                            <span>Door Delivery</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Outdoor Catering</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Door Delivery</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Outdoor Catering</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Outdoor Catering</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
@@ -105,73 +105,73 @@ function TextFlow() {
                 <Slider className="Slick-Menu" id="menu_list_flow"  {...Slidersetting} arrows={false} slidesToShow={10} autoplay={true} infinite={true} speed={5000} autoplaySpeed={0} easing={"linear"} style={{ "width": 5697 }}>
                     <div className="item">
                         <div className="text_block">
-                            <span>Door Delivery</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Outdoor Catering</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Door Delivery</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Outdoor Catering</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span> Banquets Hall </span>
+                            <span>Delivery</span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
                     <div className="item">
                         <div className="text_block">
-                            <span>Fine Dining</span>
+                            <span> Delivery </span>
                             <span className="mark_star">*</span>
                         </div>
                     </div>
